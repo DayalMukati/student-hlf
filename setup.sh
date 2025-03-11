@@ -2,7 +2,7 @@
 
 # Variables
 REPO_URL="https://github.com/DayalMukati/student-hlf.git"
-TARGET_DIR="$(pwd)/challange"
+TARGET_DIR="$(pwd)/challenge"
 
 # Clone the repository
 echo "Cloning repository from $REPO_URL..."
